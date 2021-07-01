@@ -1,7 +1,8 @@
 Welcome to the most addictive game ever! You will want to catch the fox no matter what.
 
 To start app type:
-npm start
+- npm install .
+- npm start
 
 The application consists of four screens:
 - Welcome Screen
